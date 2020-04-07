@@ -7,5 +7,6 @@ published: true
 
 ## Congraduatioins!
 
-我尝试着自己做网站。 
+我尝试着自己做网站。还在摸索之中。
+
 
