@@ -13,3 +13,15 @@ published: true
 
 Coronavirus and some natinoal thinking
 
+- [x] Additionam markup is supported 
+
+- [x] List syntax is required.
+  - You can nest lists below, too!
+- [x] This ites is completed.
+- [] Send some applications.
+  
+- [x] Additionam markup is supported 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
