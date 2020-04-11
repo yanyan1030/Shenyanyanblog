@@ -1,6 +1,6 @@
 ---
 layout: post
-title: some ideas
+title: 我的第一篇日志
 published: true
 ---
 ## This is my first blog with Jekyll
